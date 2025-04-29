@@ -9,7 +9,7 @@ namePrefix: dev-
 images:
   - name: backend
     newName: ghcr.io/mischavandenburg/study-app-b
-    newTag: backend-v0.12.9
+    newTag: backend-v0.12.10
   - name: frontend
     newName: ghcr.io/mischavandenburg/study-app-f
     newTag: frontend-v0.5.1
